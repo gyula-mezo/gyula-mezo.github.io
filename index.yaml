@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  kafka:
+  - apiVersion: v2
+    created: "2025-01-28T11:41:44.4797427+01:00"
+    description: A Helm chart for Apache Kafka
+    digest: 75fccbabd8451461dc62e39961cc90d18dc25db5fea7b7ab4491bfa2fe76bc06
+    name: kafka
+    urls:
+    - kafka-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-28T11:41:44.4779731+01:00"
