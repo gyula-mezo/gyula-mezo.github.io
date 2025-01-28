@@ -7,3 +7,11 @@ entries:
       description: A Helm chart for Kubernetes
       urls:
         - https://<username>.github.io/<repository-name>/my-chart-0.1.0.tgz
+
+  kafka:
+    - apiVersion: v2
+      name: kafka
+      version: 0.1.0
+      description: A Kafka chart
+      urls:
+        - https://<username>.github.io/<repository-name>/kafka-0.1.0.tgz
