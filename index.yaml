@@ -1,1 +1,9 @@
-# index.yaml
+apiVersion: v1
+entries:
+  my-chart:
+    - apiVersion: v2
+      name: my-chart
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      urls:
+        - https://<username>.github.io/<repository-name>/my-chart-0.1.0.tgz
